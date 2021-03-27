@@ -1,6 +1,6 @@
 {
   "name": "seekly",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Seekly's search engine in CLI.",
   "main": "cli.js",
   "scripts": {
@@ -29,5 +29,8 @@
     "open": "^8.0.4",
     "ora": "^5.4.0"
   },
-  "bin": "cli.js"
+  "bin": {
+    "seekly": "cli.js"
+  },
+  "devDependencies": {}
 }

@@ -1,5 +1,10 @@
 # seekly-cli
-Retrieve Seekly results in the CLI.
+[Seekly](https://github.com/normanlol/seekly), but in the terminal.
+
+Seekly-CLI retrieves results from Bing using [bing-scraper](https://github.com/normanlol/bing-scraper) and displays them neatly in the CLI.
+
+## demo
+![GIF of a demo](/demo.gif)
 
 ## installation
 ```

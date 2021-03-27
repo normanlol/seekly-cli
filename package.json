@@ -1,0 +1,33 @@
+{
+  "name": "seekly",
+  "version": "1.0.0",
+  "description": "Seekly's search engine in CLI.",
+  "main": "cli.js",
+  "scripts": {
+    "test": "node tests/search.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/normanlol/seekly-cli.git"
+  },
+  "keywords": [
+    "search",
+    "search-engine",
+    "search-engine-cli",
+    "bing"
+  ],
+  "author": "normanlol",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/normanlol/seekly-cli/issues"
+  },
+  "homepage": "https://github.com/normanlol/seekly-cli#readme",
+  "dependencies": {
+    "bing-scraper": "^1.4.1",
+    "chalk": "^4.1.0",
+    "enquirer": "^2.3.6",
+    "open": "^8.0.4",
+    "ora": "^5.4.0"
+  },
+  "bin": "cli.js"
+}

@@ -1,6 +1,6 @@
 {
   "name": "seekly",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Seekly's search engine in CLI.",
   "main": "cli.js",
   "scripts": {
